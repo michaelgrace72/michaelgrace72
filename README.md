@@ -116,23 +116,26 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## 🚀 Featured Projects
 
-### 🌟 [Project Name](https://github.com/michaelgrace72/project-repo)
-**Tech Stack:** React, Node.js, MongoDB, Express.js
-- Brief description of what the project does
-- Key features and functionality
-- Live demo link (if available)
+### 🌟 [VoCalendar - Voice-Based Calendar App](https://github.com/michaelgrace72/VoCalendar)
+**Tech Stack:** Flutter (Dart), Firebase, GPT API, Speech-to-Text
+- Intelligent voice-based calendar application with LLM-powered natural language processing
+- Manages schedules using voice commands in Bahasa Indonesia with GPT integration
+- Features automatic date/time detection, recurring patterns, and manual event management
+- Built with Firebase authentication and real-time synchronization across devices
 
-### 🌟 [Another Project](https://github.com/michaelgrace72/another-project)
-**Tech Stack:** Python, Django, PostgreSQL
-- Description of the project and its purpose
-- Notable achievements or challenges overcome
-- Impact or results achieved
+### 🌟 [Credit Card Approval Prediction](https://github.com/michaelgrace72/CreditCardApprovalPrediction)
+**Tech Stack:** Python, Flask, CatBoost ML, Docker, Pandas/NumPy
+- Machine learning web application for real-time credit card risk assessment
+- Implements CatBoost model for binary classification (High Risk/Low Risk)
+- Features responsive web interface with comprehensive applicant evaluation system
+- Dockerized deployment with secure data processing and validation
 
-### 🌟 [Third Project](https://github.com/michaelgrace72/third-project)
-**Tech Stack:** JavaScript, Vue.js, Firebase
-- Project overview and objectives
-- Technical highlights and innovations
-- User feedback or adoption metrics
+### 🌟 [Data Encryption Flask Application](https://github.com/michaelgrace72/Data-encryption-Flask)
+**Tech Stack:** Python, Flask, PostgreSQL, PyCryptodome, SQLAlchemy
+- Secure file management system with AES, DES, and RC4 encryption algorithms
+- Advanced access control with time-limited file sharing and permission management
+- Features activity logging, session management, and encrypted user-specific keys
+- Enhanced security with MASTER_KEY storage in environment variables
 
 
 ## 🎯 Current Focus
